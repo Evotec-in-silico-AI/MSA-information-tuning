@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="200.340937pt" height="34.425313pt" viewBox="0 0 200.340937 34.425313" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T10:02:32.537066</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.7.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 34.425313 
+L 200.340938 34.425313 
+L 200.340938 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="legend_1">
+   <g id="patch_2">
+    <path d="M 12.64 19.797813 
+L 22.64 19.797813 
+L 22.64 12.797813 
+L 12.64 12.797813 
+z
+" style="fill: #7f2f5c; stroke: #7f2f5c; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="28.64" y="19.797813" transform="rotate(-0 28.64 19.797813)">≤5</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 50.69 19.797813 
+L 60.69 19.797813 
+L 60.69 12.797813 
+L 50.69 12.797813 
+z
+" style="fill: #c978a6; stroke: #c978a6; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_2">
+    <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="66.69" y="19.797813" transform="rotate(-0 66.69 19.797813)">5–10</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 99.93375 19.797813 
+L 109.93375 19.797813 
+L 109.93375 12.797813 
+L 99.93375 12.797813 
+z
+" style="fill: #e7b6cf; stroke: #e7b6cf; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_3">
+    <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="115.93375" y="19.797813" transform="rotate(-0 115.93375 19.797813)">10–20</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 154.738437 19.797813 
+L 164.738437 19.797813 
+L 164.738437 12.797813 
+L 154.738437 12.797813 
+z
+" style="fill: #f8e6ef; stroke: #f8e6ef; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_4">
+    <text style="fill: #262626; font: 10px 'Arial', 'DejaVu Sans', 'Liberation Sans', 'Bitstream Vera Sans', sans-serif; text-anchor: start" x="170.738437" y="19.797813" transform="rotate(-0 170.738437 19.797813)">&gt;20</text>
+   </g>
+  </g>
+ </g>
+</svg>

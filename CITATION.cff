@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript or preprint."
+title: "Tuning evolutionary information in MSAs shapes protein generation and folding"
+type: software
+version: "1.0.0"
+authors:
+  - family-names: Richardson
+    given-names: Graham
+    affiliation: Evotec US
+    orcid: "https://orcid.org/0000-0002-4500-684X"
+  - family-names: Colliandre
+    given-names: Lionel
+    affiliation: Evotec (France) SAS
+    orcid: "https://orcid.org/0009-0006-1035-3696"
+repository-code: "https://github.com/Evotec-in-silico-AI/MSA_information_tuning"
+license: MIT
+keywords:
+  - multiple sequence alignment
+  - protein generation
+  - protein structure prediction
+  - masked diffusion language model
+  - evolutionary information
+

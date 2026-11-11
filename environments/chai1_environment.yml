@@ -1,0 +1,22 @@
+name: chai1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.10
+  - pip
+  - pip:
+      - chai_lab==0.6.1
+      - tensorflow==2.19.0
+      - torch==2.6.0
+      - numpy==1.26.4
+      - scipy==1.15.3
+      - pandas==2.2.3
+      - scikit-learn==1.6.1
+      - networkx==3.4.2
+      - biopython==1.85
+      - biotite==1.4.0
+      - gemmi==0.6.7
+      - matplotlib==3.10.3
+      - pyarrow==20.0.0
+      - openpyxl==3.1.5
