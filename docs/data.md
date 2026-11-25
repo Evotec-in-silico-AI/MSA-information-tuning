@@ -11,7 +11,7 @@ Code release tag: v1.0.0
 Code commit: initial release (1)
 Archived code DOI: 10.5281/zenodo.23674166
 Data DOI: 10.5281/zenodo.23671811
-Manuscript DOI: pending
+Manuscript DOI: 10.64898/2026.11.23.768656
 ```
 
 ## Retained data
