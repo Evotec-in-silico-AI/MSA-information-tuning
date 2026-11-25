@@ -1,5 +1,5 @@
 # Tuning evolutionary information in MSAs shapes protein generation and folding
-![graphical_abstract](images/graphica_abstract.png)
+![graphical_abstract](images/graphical_abstract.png)
 This repository contains the code and repository-resident source data for our paper at https://www.biorxiv.org/content/10.64898/2026.11.23.768656v1. A separate companion data release supplies the larger inputs and processed products needed for complete reproduction.
 
 ## Repository structure
