@@ -1,4 +1,4 @@
-cff-version: 1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite the associated manuscript or preprint."
 title: "Tuning evolutionary information in MSAs shapes protein generation and folding"
 doi: 10.64898/2026.11.23.768656
